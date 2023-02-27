@@ -19,32 +19,7 @@ function state(): ExampleStateInterface {
     userLocale: 'ru',
     user: null,
     color: null,
-    staffs: [
-      // {
-      //   id: 1,
-      //   fio: 'Jafar Orifov',
-      //   position: 'Software Engineer',
-      //   phone: '933745891',
-      //   email: 'jafarchik9800@gmail.com',
-      //   description: 'This is not required'
-      // },
-      // {
-      //   id: 2,
-      //   fio: 'Jack Smith',
-      //   position: 'Data Engineer',
-      //   phone: '995553332',
-      //   email: 'Jack00@gmail.com',
-      //   description: 'This is not required'
-      // },
-      // {
-      //   id: 3,
-      //   fio: 'Rosa Milson',
-      //   position: 'Recruiter',
-      //   phone: '954586666',
-      //   email: 'Rosa555@gmail.com',
-      //   description: 'This is not required'
-      // }
-    ],
+    staffs: [],
     staff_id: 1
   }
 }
