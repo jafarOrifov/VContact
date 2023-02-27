@@ -145,7 +145,6 @@ export default {
     // PLUGINS
     const i18n = useI18n();
     const store = useStore();
-    const $q = useQuasar();
     const router = useRouter();
 
     // VARIABLES
