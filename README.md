@@ -24,5 +24,5 @@ quasar build
 See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quasar-config-js).
 
 
-### You can find url here
+### You can visit VContact by this url:
 https://jafar-vcontact.netlify.app/#/
