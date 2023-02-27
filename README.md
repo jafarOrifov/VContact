@@ -1,6 +1,6 @@
-# portfolio-app (portfolio-app)
+# VContact (VContact)
 
-portfolio-app
+VContact
 
 ## Install the dependencies
 ```bash

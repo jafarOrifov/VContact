@@ -140,8 +140,8 @@ module.exports = configure(function (ctx) {
       // chainWebpackCustomSW (/* chain */) {},
 
       manifest: {
-        name: `portfolio-app`,
-        short_name: `portfolio-app`,
+        name: `VContact`,
+        short_name: `VContact`,
         description: ``,
         display: 'standalone',
         orientation: 'portrait',
@@ -207,7 +207,7 @@ module.exports = configure(function (ctx) {
       builder: {
         // https://www.electron.build/configuration/configuration
 
-        appId: 'portfolio-app'
+        appId: 'VContact'
       },
 
       // "chain" is a webpack-chain object https://github.com/neutrinojs/webpack-chain

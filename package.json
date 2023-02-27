@@ -1,8 +1,8 @@
 {
-  "name": "portfolio-app",
+  "name": "VContact",
   "version": "0.0.1",
-  "description": "portfolio-app",
-  "productName": "portfolio-app",
+  "description": "VContact",
+  "productName": "VContact",
   "author": "Jafar Orifov",
   "private": true,
   "scripts": {
