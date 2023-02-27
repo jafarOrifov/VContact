@@ -1,0 +1,65 @@
+// Fonts
+@font-face {
+  font-family: 'Ubuntu-Regular';
+  src: url(src/assets/fonts/Ubuntu-Regular.ttf);
+}
+
+@font-face {
+  font-family: 'Ubuntu-Medium';
+  src: url(src/assets/fonts/Ubuntu-Medium.ttf);
+}
+
+@font-face {
+  font-family: 'Ubuntu-Bold';
+  src: url(src/assets/fonts/Ubuntu-Bold.ttf);
+}
+
+//Sass
+$text-font-regular: 'Ubuntu-Regular';
+$text-font-medium: 'Ubuntu-Medium';
+$text-font-bold: 'Ubuntu-Bold';
+
+//Style
+*{
+  font-family: $text-font-regular;
+  box-sizing: border-box !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{
+  font-family: $text-font-regular;
+}
+
+p{
+  font-size: 18px;
+  font-family: $text-font-regular;
+}
+
+span{
+  font-size: 14px;
+  font-family: $text-font-regular;
+}
+
+.p-medium{
+  font-size: 18px;
+  font-family: $text-font-medium;
+}
+
+.p-bold{
+  font-size: 18px;
+  font-family: $text-font-bold;
+}
+
+.span-medium{
+  font-size: 16px;
+  font-family: $text-font-medium;
+}
+
+.span-bold{
+  font-size: 16px;
+  font-family: $text-font-bold;
+}
