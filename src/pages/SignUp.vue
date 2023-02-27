@@ -232,7 +232,7 @@ export default {
 
     let userCredentials = reactive<User>({
       name: '',
-      address: 'Ferghana city',
+      address: 'Uzbekistan, Ferghana',
       phone: '',
       login: '',
       password: '',
